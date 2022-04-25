@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillermo</h1>
 <h3 align="center">A passionate junior backend developer from Valladolid</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Dart**
 
 - 📫 How to reach me **iphoneguiller91@gmail.com**
 
