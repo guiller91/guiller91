@@ -1,7 +1,11 @@
+<img src="guiller.gif" width="100%" />
+
+
+
 <h1>Hi 👋, I'm Guillermo</h1>
 
-================================
 
+----------------------------
 Developer at Telefónica Tech
 ----------------------------
 
