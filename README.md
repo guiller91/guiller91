@@ -6,13 +6,13 @@
 
 
 ----------------------------
-Developer at Telefónica Tech
+Developer at Telefónica Global Technoly
 ----------------------------
 
 *   🌍  I'm based in Valladolid
 *   🖥️  See my portfolio at [My first app](http://play.google.com/store/apps/details?id=es.olimpo.imovie)
 *   ✉️  You can contact me at [iphoneguiller91@gmail.com](mailto:iphoneguiller91@gmail.com)
-*   🧠  I'm currently studying a Master in AI and big data
+
 
 ### Skills
 
